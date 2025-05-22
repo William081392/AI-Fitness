@@ -19,7 +19,7 @@
 
 ## 四、系統組成及技術說明
 ### 前端（Web）
-- 語音輸入（Web Speech API）
+- 語音輸入
 - JavaScript 分析語音內容並產生運動建議
 - Web Serial API 傳送運動菜單與控制指令給 Arduino
 - 接收 Arduino 回傳的運動/休息狀態，於網頁顯示倒數或進度
